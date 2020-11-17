@@ -2,6 +2,9 @@ Watch This video on youtube: https://youtu.be/3LhMkJqXZlE
 
 Linkedin id: https://www.linkedin.com/in/nilesh-gaur-244b1a195/
 
+FIRST INSTALL THE NODE PACKAGES: express, request, body-parser, pug, mongoose.
+npm install ......
+
 To run the app, you need to type node app in terminal.
 
 Then, open localhost:3000 in the web browser.
